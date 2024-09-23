@@ -42,9 +42,6 @@ https://docs.google.com/spreadsheets/d/12jEGQftFUL3vAI03X0Ku1LgoWFQKdwPA_WHuLh_2
 https://github.com/MuntashirAkon/AppManager
 
 
-Google play url format: https://play.google.com/store/apps/details?id=flipboard.app
-
-
 Settings?
 adb shell settings put global online_manual_url 0
 adb shell settings put system remote_control 0
