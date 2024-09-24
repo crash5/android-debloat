@@ -1,10 +1,12 @@
 # ALLDOCUBE iPlay 50 Pro
 
-https://androidmtk.com/install-xml-scatter-firmware-mediatek
+- https://www.alldocube.com/en/firmware/alldocube-iplay50prot1030m-firmware-download/
+- https://androidmtk.com/install-xml-scatter-firmware-mediatek
 
 
-## First time:
+## First time
 
+```bash
 adb reboot bootloader
 
 fastboot flashing unlock
@@ -17,16 +19,19 @@ fastboot flash system system.img
 fastboot -w
 
 fastboot reboot
+```
 
+## Updates
 
-## Updates:
-
+```
 adb reboot fastboot
 fastboot flash system system.img
 fastboot reboot
+```
 
 ---
 
+```
 $ fastboot erase system
 Erasing 'system_a'                                 OKAY [  0.086s]
 Finished. Total time: 0.098s
@@ -58,3 +63,4 @@ Writing 'system_a'                                 OKAY [  1.695s]
 Sending sparse 'system_a' 11/11 (58668 KB)         OKAY [  1.436s]
 Writing 'system_a'                                 OKAY [  0.655s]
 Finished. Total time: 88.845s
+```
