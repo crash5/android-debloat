@@ -7,10 +7,10 @@
 
 
 ```bash
-adb shell pm list packages > onphone.txt
-adb shell pm list packages -d > onphone-disabled.txt
-adb shell pm list packages -e > onphone-enabled.txt
-adb shell pm list packages -s > onphone-system.txt
+adb shell pm list packages > ondevice.txt
+adb shell pm list packages -d > ondevice-disabled.txt
+adb shell pm list packages -e > ondevice-enabled.txt
+adb shell pm list packages -s > ondevice-system.txt
 
 
 adb shell pm disable-user --user 0 <package>
