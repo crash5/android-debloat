@@ -16,7 +16,7 @@ adb shell pm list packages -s > ondevice-system.txt
 adb shell pm disable-user --user 0 <package>
 adb shell am force-stop --user 0 <package>
 
-adb shell pm enable --user 0 <package>
+adb shell pm enable <package>
 
 # Keep the data and cache directories after removal
 adb shell pm uninstall -k --user 0 <package>
