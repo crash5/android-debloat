@@ -11,6 +11,7 @@ com.microsoft.appmanager
 com.microsoft.skydrive
 com.samsung.android.accessibility.talkback
 com.samsung.android.app.camera.sticker.facearavatar.preload
+com.samsung.android.app.reminder
 com.samsung.android.app.spage
 com.samsung.android.ardrawing
 com.samsung.android.aremoji
@@ -35,6 +36,7 @@ com.sec.android.app.billing
 com.sec.android.app.chromecustomizations
 com.sec.android.autodoodle.service
 com.sec.android.mimage.avatarstickers
+com.sec.android.widgetapp.webmanual
 com.swiftkey.swiftkeyconfigurator
 com.touchtype.swiftkey
 de.axelspringer.yana.zeropage
