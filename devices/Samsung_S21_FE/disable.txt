@@ -9,6 +9,7 @@ com.google.android.apps.googleassistant
 com.google.android.apps.tachyon
 com.microsoft.appmanager
 com.microsoft.skydrive
+com.osp.app.signin
 com.samsung.android.accessibility.talkback
 com.samsung.android.app.camera.sticker.facearavatar.preload
 com.samsung.android.app.reminder
@@ -20,6 +21,7 @@ com.samsung.android.aremojieditor
 com.samsung.android.arzone
 com.samsung.android.authfw
 com.samsung.android.aware.service
+com.samsung.android.dbsc
 com.samsung.android.game.gametools
 com.samsung.android.game.gos
 com.samsung.android.ipsgeofence
@@ -30,15 +32,19 @@ com.samsung.android.samsungpass
 com.samsung.android.samsungpassautofill
 com.samsung.android.scloud
 com.samsung.android.scpm
+com.samsung.android.server.wifi.mobilewips
 com.samsung.android.smartsuggestions
 com.samsung.android.spayfw
 com.samsung.android.stickercenter
+com.samsung.android.visualars
 com.samsung.knox.securefolder
 com.sec.android.app.billing
 com.sec.android.app.chromecustomizations
+com.sec.android.app.samsungapps
 com.sec.android.autodoodle.service
 com.sec.android.mimage.avatarstickers
 com.sec.android.widgetapp.webmanual
+com.sec.spp.push
 com.swiftkey.swiftkeyconfigurator
 com.touchtype.swiftkey
 de.axelspringer.yana.zeropage
